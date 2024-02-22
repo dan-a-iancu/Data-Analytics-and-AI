@@ -1,4 +1,3 @@
-# hello-world
-A simple first-time test
+# Data Analytics and AI
 
-Not much more to say than that.
+Cases and Jupyter Notebook files to use for teaching Data Analytics and AI
